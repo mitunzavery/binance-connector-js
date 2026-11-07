@@ -27,7 +27,7 @@
         "dist"
     ],
     "devDependencies": {
-        "@types/node": "^20.17.24",
+        "@types/node": "^26.6.6",
         "ts-node": "^10.9.1",
         "tsdown": "^0.16.5",
         "typescript": "^5.7.2"
