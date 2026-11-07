@@ -54,7 +54,7 @@
     "dependencies": {
         "@types/ws": "^8.5.5",
         "axios": "^1.7.4",
-        "json-with-bigint": "^3.5.8",
+        "json-with-bigint": "^3.5.12",
         "ws": "^8.17.1"
     }
 }
