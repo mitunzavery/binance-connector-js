@@ -25,5 +25,8 @@
         "typedoc-plugin-markdown": "^4.0.0",
         "typedoc-plugin-pages": "^1.0.0"
     },
-    "dependencies": {}
+    "dependencies": {
+        "rolldown": "^1.2.8",
+        "rolldown-plugin-dts": "^0.28.7"
+    }
 }
